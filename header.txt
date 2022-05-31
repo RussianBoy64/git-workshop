@@ -1,2 +1,6 @@
 This is header.txt file!
-Changed by <main> - new changes in <main>!
+
+Changed by <main>
+Changed by branch <first>
+
+Some new changes in <main>!
